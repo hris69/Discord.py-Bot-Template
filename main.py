@@ -4,6 +4,7 @@ Version: 1.0
 """
 import discord
 from dotenv import load_dotenv
+from discord.ext import commands
 load_dotenv()
 
 intents = discord.Intents.all() # enables all intents this requires the two switches ticket at https://discord.com/developers
