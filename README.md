@@ -33,3 +33,9 @@ If you have any issues or else of that template you can do the following things:
 * Add me on [Discord](http://discord.com/users/675280674994782208)
 * Or post an issue [here](https://github.com/hris69/discordpy-bot-template/issues)
 
+## Other
+If you have any suggestions about that template, please create a pull request.
+Information:
+* Built with [Python 3.7.9](https://www.python.org/downloads/release/python-379/)
+* ©️ 2021 Hris - This project is licensed under the [Apache License 2.0](https://github.com/hris69/discordpy-bot-template/blob/main/LICENSE.md)
+
