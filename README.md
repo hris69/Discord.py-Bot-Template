@@ -12,7 +12,7 @@ py -3 -m pip install -U discord.py
 ```
 
 ## How to install all packages and configure your bot
-To start the bot you need to go to the [discord developer portal](https://discord.com/developers/applications) and create a new application. Copy the token and insert it in the .env file, of course you need code too!
+To start the bot you need to go to the [discord developer portal](https://discord.com/developers/applications) and create a new application. Copy the token and insert it in the .env file, discord.py is not a beginner friendly library, I suggest you to have at least basic Python knowledge.
 * Invite your bot in your server with this link: https://discord.com/oauth2/authorize?client_id=your_id_here&scope=bot&permissions=8
 * Replace the **your_id_here** with your application ID.
 * After you did that, you need to install all the required packages for your bot!
