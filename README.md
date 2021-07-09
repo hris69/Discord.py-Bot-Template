@@ -1,3 +1,10 @@
+
+<p align="center">
+  <a href="//github.com/hris69/discordpy-bot-template/releases/"><img src="https://img.shields.io/github/downloads/hris69/discordpy-bot-template/total"></a>
+  <a href="//github.com/hris69/discordpy-bot-template/blob/main/LICENSE.md"><img src="https://img.shields.io/github/license/hris69/discordpy-bot-template"></a>
+</p>
+
+
 # Python Discord Bot Template
 A discord.py Discord bot template
 Python 3.5.3 or higher is  for discord.py required
