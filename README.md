@@ -1,7 +1,7 @@
 
 <p align="center">
-  <a href="//github.com/hris69/discordpy-bot-template/releases/"><img src="https://img.shields.io/github/downloads/hris69/discordpy-bot-template/total"></a>
-  <a href="//github.com/hris69/discordpy-bot-template/blob/main/LICENSE.md"><img src="https://img.shields.io/github/license/hris69/discordpy-bot-template"></a>
+  <a href="//github.com/hris69/Discord.py-Bot-Template/releases/"><img src="https://img.shields.io/github/downloads/hris69/Discord.py-Bot-Template/total"></a>
+  <a href="//github.com/hris69/Discord.py-Bot-Template/blob/main/LICENSE.md"><img src="https://img.shields.io/github/license/hris69/Discord.py-Bot-Template"></a>
 </p>
 
 
