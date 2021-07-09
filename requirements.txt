@@ -1,0 +1,2 @@
+discord.py
+sqlite3 # if needed - you can use for sure any other db
