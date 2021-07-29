@@ -7,7 +7,7 @@ from dotenv import load_dotenv
 from discord.ext import commands
 load_dotenv()
 
-intents = discord.Intents.all() # enables all intents this requires the two switches ticket at https://discord.com/developers
+intents = discord.Intents.all() # enables all intents this requires the two switches ticked at https://discord.com/developers
 client = commands.Bot(command_prefix="your_prefix_here", intents=intents)
 client.remove_command('help') # remove the default help command if you want a custom one
 
